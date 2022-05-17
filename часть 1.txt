@@ -1,0 +1,5 @@
+let degReeTc = prompt ('Введите температуру по Цельсию');	
+
+let degReeTf = ((9 / 5) * degReeTc + 32);
+
+alert ('Температура по Фаренгейту ' + degReeTf);

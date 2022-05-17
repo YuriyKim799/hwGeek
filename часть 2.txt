@@ -1,0 +1,4 @@
+let name = 'Юрий'
+let admin = name;
+
+console.log (admin);
